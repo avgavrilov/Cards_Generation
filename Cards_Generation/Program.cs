@@ -10,6 +10,7 @@ namespace Cards_Generation
     {
         static void Main(string[] args)
         {
+            ///
         }
     }
 }
